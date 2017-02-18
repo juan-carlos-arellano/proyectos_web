@@ -1,0 +1,45 @@
+html {
+    font-size: 10px; /* el tamaño de la fuente  ahora es de 20px */
+    font-family: 'Sansita', sans-serif;
+    background-color: #084a43;
+}
+p {
+  color: #880c3c;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+li {
+    color: #500d00;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+h3 {
+    color: brown;
+    font-size: 20px; /* el tamaño de la fuente ahora es de 20px */ 
+    text-align: left;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+h2 {
+    font-size: 60px;
+    text-align: center;
+}
+body {
+  width: 600px; /* el cuerpo siempre tendra 600px de ancho */
+  margin: 0 auto; /* el primer valor afecta superior e inferior el sgundo para derecha izq */
+  background-color: dodgerblue; /* color de fondo */ 
+  padding: 0 20px 20px 20px; /* 0pxarriba 20pxderecha 20pxabojo e 20pxizquierda */ 
+  border: 5px solid black; /* borde de 5px color negro */
+}
+h2 {
+  margin: 0;
+  padding: 20px 0;    
+  color: black;
+  text-shadow: 3px 3px 1px #084a43;
+}
+img {
+  display: block; /* cambiar de inline a block-leve */
+  margin: 0 auto;
+}
